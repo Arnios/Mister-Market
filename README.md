@@ -14,13 +14,7 @@ Since a benchmark index is a weighted average of a collection of stocks, the abo
 
 **Note: Run the codes in the Normal Distribution folder**
 
-<br/>
-
----
-
 ## Output
-
-<br/>
 
 ### [09-April-2022] PB Ratio Distribution Code Output
 
@@ -97,28 +91,17 @@ Since a benchmark index is a weighted average of a collection of stocks, the abo
 > ![plot](./Charts/Div_Yield_Distribution.png)  
 >
 
-<br/>
-
----
-
 ## Tech Stack
 
 * Python 3.7
 * Spyder 3.3.3 (Included in Anaconda Distribution)
 
-<br/>
-
----
 
 ## Future Improvements
 
 * Include a statement stating current position of PE and Dividend Yield over their respective historic distributions
 
-<br/>
-
----
 
 ## License
 
 The contents are licensed under the [MIT License](https://opensource.org/licenses/MIT)
- 
